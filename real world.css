@@ -1,0 +1,26 @@
+<style>
+     body{width: 700px; height: 700px; background-color: rgb(237, 247, 252);}
+                div {width: 500px; height: 400; margin: auto; border: 5px; 
+                    background-color: rgb(10, 160, 219);}
+                img{width: 450px; height: 100px; margin: 20 0 0 20; 
+                    border: 4px rgb(250, 249, 248) solid; border-radius: 3px;} 
+                h1{text-align: center; font-family:sans-serif;
+                color: rgb(31, 45, 126); font-size: 12px;}   
+                nav{float: left; width: 150px; height: 150; border-radius: 5px;
+                 padding: 2px;
+                 background-color: rgb(218, 235, 235); margin: 18 10 5 10;}
+                button{width: 143px; height: 26px; background-color: rgb(9, 132, 247); font-weight: bold;
+                color: rgb(248, 249, 250);margin: 2 2 2 3; border-radius: 5px; 
+                border: rgb(0, 0, 12); outline-style:outset;
+                outline-color: rgb(206, 206, 245);}
+                button:hover{background-color: rgb(38, 0, 255);}
+                table{float: right; width: 260px; height: 150px; border-radius: 5px; 
+                padding: 2px; background-color: rgb(13, 162, 248); margin: 0 20 10 10;
+                color: antiquewhite;}
+                th{background-color: rgb(9, 44, 245);}
+                h2{text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif; 
+                color: rgb(244, 244, 245); font-size: 12px; margin: 10 0 5 10;}
+                footer{clear: both; margin: 10 10 10 10; background-color: rgb(35, 35, 212);
+                height: 40px; padding: 2px; border-radius: 5px; word-spacing: 20px; 
+                font-weight: bold; font-size: medium; color: aliceblue;font-family: monospace;}
+</style>
